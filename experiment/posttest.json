@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "	Which among of the following is more elastic?",
+      "question": "Which among of the following is more elastic?",
       "answers": {
         "a": "Copper",
         "b": "Wood",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "	Within the limit of elasticity, strain produced is directly proportional to stress applied, by",
+      "question": "Within the limit of elasticity, strain produced is directly proportional to stress applied, by",
       "answers": {
         "a": "Pascal's law",
         "b": "Hook's law",
