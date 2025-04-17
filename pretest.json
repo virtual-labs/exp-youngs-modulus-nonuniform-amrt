@@ -1,0 +1,27 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Young's modulus is?",
+      "answers": {
+        "a": "volume strain / volume stress",
+        "b": "longitudinal stress/longitudinal strain",
+        "c": "shear stress/ shear strain",
+        "d": "shear strain/ shear stress"
+      },      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the unit of Young's modulus?",
+      "answers": {
+        "a": "N/m<sup>2</sup>",
+        "b": "Nm",
+        "c": "Nm<sup>2</sup>",
+        "d": "N/m<sup>3</sup>"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
